@@ -1,0 +1,170 @@
+html,body{
+height: 100%;
+text-align:center;
+}
+body{
+background-color: #FFFFFF;
+font-family: 'Open sans',sans-serif;
+font-size:18px;
+color:#443329;
+line-height: 1.6;
+}
+
+*,
+*:before
+*:after{
+box-sizing:border-box;
+}
+
+.container{
+
+}
+
+/*SECTIONNNNN*/
+.section{
+padding:40px 30px;
+}
+.section__header{
+width:100%;
+margin:0px;
+text-align:center
+}
+#new{
+color:#A18A6F;
+}
+.section__title{
+font-size:36px;
+font-family: 'Georgia';
+font-weight:400;
+color:#443329;
+text-align: center;
+margin:50px auto 50px;
+}
+.section__text{
+font-size:16px;
+font-family:'Open Sans';
+color:#443329;
+font-style: normal;
+font-weight:400;
+line-height:125%;
+}
+
+/*ABOUTTTT*/
+.about{
+text-align: center;
+/*border:1px solid black;*/
+font-family:'Open Sans';
+font-weight: 400;
+font-size:18px;
+}
+
+.about__item1{
+display:inline-block;
+padding:0px;
+margin:30px;
+vertical-align:middle;
+width:270px;
+height:180px;
+margin-right:0px;
+background-color: #A18A6F;
+;
+color:#FFFFFF;
+}
+.about__item{
+display:inline-block;
+padding:0px;
+margin:30px;
+vertical-align:middle;
+width:270px;
+height:180px;
+margin-right:0px;
+background-color: #F5F5F5;
+
+}
+
+.about__img{
+margin:20px;
+padding:0;
+}
+
+/*BLOKKK1*/
+.container1{
+
+}
+.about__it{
+display:inline-block;
+padding:0px;
+width:370px;
+height:250px;
+margin-right:0px;
+background-color: #F5F5F5;    
+}
+.box{
+text-align:center;
+
+}
+.about__nuz{
+display:inline-block;
+background-color: #A18A6F;
+margin:0px 15px;
+width:370px;
+height:358px;
+text-align:center;
+color:#FFFFFF;
+vertical-align:middle;
+font-family: "Open Sans";
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+
+}
+
+
+/*BLOKK2*/
+.container2{
+
+}
+.about__box{
+display:inline-block;
+padding:0px;
+margin:10px 10px 0px 10px;
+vertical-align:middle;
+width:254px;
+height:254px;
+margin-right:0px;
+background-color: #F5F5F5; }
+
+
+/*BLOKK3*/
+.container3{
+
+}
+.about__box1{
+display:inline-block;
+padding:0px;
+margin:10px 10px 0px 10px;
+vertical-align:middle;
+width:254px;
+height:254px;
+margin-right:0px;
+background-color: #F5F5F5; 
+}
+
+/*КНОПКА*/
+.knopka{
+margin:center;
+}
+.knopkaa{
+margin:50px auto;
+cursor:pointer;
+width:200px;
+height:46px;
+background:linear-gradient(180deg, #D2C4B4 0%, #A18A6F 100%);
+border-radius:5px;
+text-align: center;
+color:#FFFFFF;
+}
+
+
+
+
